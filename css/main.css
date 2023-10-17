@@ -2,4 +2,6 @@
 @import "./base/variables.css";
 @import "./layout/header.css";
 @import "./layout/footer.css";
-@import "./module/movie.css"
+@import "./module/movie.css";
+@import "./layout/categorias.css";
+@import "./module/card.css";
